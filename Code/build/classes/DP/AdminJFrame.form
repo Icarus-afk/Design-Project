@@ -245,9 +245,9 @@
                           <Component id="jLabel9" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="jLabel41" alignment="1" min="-2" pref="26" max="-2" attributes="0"/>
-                          <Component id="jLabel42" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="jLabel42" min="-2" pref="26" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
                       <Component id="jButton12" min="-2" pref="60" max="-2" attributes="0"/>
